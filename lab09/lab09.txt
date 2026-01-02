@@ -1,0 +1,7 @@
+vasechkin 2 3 6 6 6 
+PETROV 7 7 7 7 7 
+tekalina 1 2 3 4 5 
+BASHEVA 9 6 10 8 8 
+barina 8 8 2 3 10 
+KOZLOV 10 10 10 10 10 
+bashirov 3 3 3 2 2 
